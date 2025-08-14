@@ -121,6 +121,6 @@ print(f"Confidence: {answer['score']:.2f}")
 
 ## 🔗 Resources
 
-- [Hugging Face](https://huggingface.co/google/flan-t5-small) Hugging Face Model
+- [Hugging Face](https://huggingface.co/google/flan-t5-small) google/flan-t5-small Model
 - [Streamlit](https://streamlit.io/) for the intuitive web framework
 
